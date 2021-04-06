@@ -11,7 +11,6 @@ If you're already experienced with downloading a Wabbajack modlist please head t
     - [Set the Game language to English](#set-the-game-language-to-english)
     - [Clean Skyrim](#clean-skyrim)
     - [Start Skyrim](#start-skyrim)
-  - [Using Wabbajack](#using-wabbajack)
     - [Preparations](#preparations)
 - [Updating](#updating)
 - [In Game MCM Options](#in-game-mcm-options)
@@ -61,8 +60,6 @@ If this is your first time installing a Wabbajack modlist please use the [Shredd
 
 After you have done everything above and got a clean SSE installation ready, Launch Skyrim once through Steam and get to the main menu and quit. This sets up all the back end stuff that Wabbajack needs to read.
 
-### Using Wabbajack
-
 ## Preparations
 
 Download the release to a newly created folder (Name it Wabbajack for example). This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:\Wabbajack`.
@@ -98,11 +95,9 @@ Updating is like installing. You only have to make sure that you select the same
 ## In-Game MCM Options
 MCM options have been tweaked specifically for this list, do not modify anything unless you know what you're doing.
 
-
-
 ## FAQ
 
-## Ultrawide Options
+### Ultrawide Options
 
 Read [Here](https://docs.google.com/document/d/1D3Yapmu_IkTWSszJ4h9wpNxgNLCi46f7XiJknpdMb6E/edit?usp=sharing)
 
@@ -110,15 +105,15 @@ Read [Here](https://docs.google.com/document/d/1D3Yapmu_IkTWSszJ4h9wpNxgNLCi46f7
 
 This modlist isn't easy, it's following the Soulsborne style of gaming philosophy. If you don't like it then don't play it. If you really still want to play it you can adjust MCM settings for Sekiro at your own discretion.
 
-## Removing the Modlist
+### Removing the Modlist
 
 You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
 
-## I have a question/I have a bug
+### I have a question/I have a bug
 
 I reside here for any questions related to playing the modlist: https://discord.gg/VVRWPJmgf7
 
-## I want to support your work!
+### I want to support your work!
 
 I thank you for that thought but you should probably donate to Wabbajack first. Link [here](https://www.patreon.com/user/overview?u=11907933).
 
