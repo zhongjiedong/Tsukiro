@@ -15,19 +15,11 @@ If you're already experienced with downloading a Wabbajack modlist please head t
     - [Preparations](#preparations)
     - [Downloading and Installing](#downloading-and-installing)
       - [Problems with Wabbajack](#problems-with-wabbajack)
-  - [Post-Installation](#post-installation)
-    - [Copy Game Folder Files](#copy-game-folder-files)
-    - [Graphical Settings](#graphical-settings)
-    - [Getting an ENB](#getting-an-enb)
-    - [Profiles](#Profiles)
 - [Updating](#updating)
 - [In Game MCM Options](#in-game-mcm-options)
 - [How to start playing](#How-to-start-playing)
 - [FAQ](#faq)
   - [Ultrawide Options](#ultrawide-options)
-  - [Performance stuff](#Performance-stuff)
-    - [Tweaking the ENB](#tweaking-the-enb)
-    - [Tweaking the Game Settings](#tweaking-the-game-settings)
 - [Removing the Modlist](#removing-the-modlist)
 - [Credits and Thanks](#credits-and-thanks)
 - [Contact](#contact)
@@ -115,13 +107,13 @@ This modlist isn't easy, it's following the Soulsborne style of gaming philosoph
 
 ## FAQ
 
-## Removing the Modlist
-
-You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
-
 ## Ultrawide Options
 
 Read [Here](https://docs.google.com/document/d/1D3Yapmu_IkTWSszJ4h9wpNxgNLCi46f7XiJknpdMb6E/edit?usp=sharing)
+
+## Removing the Modlist
+
+You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
 
 ## I have a question/I have a bug
 
