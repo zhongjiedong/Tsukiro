@@ -46,6 +46,10 @@ I doubt you need to do this since you likely already have this installed. This p
 
 ## Steam Config
 
+### Disable the Steam Overlay
+
+Right click on Skyrim SE and click on properties, untick "Enable Steam Overlay whle in-game
+
 #### Steam Library
 
 If you have your steam library in program files, read [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to put it somewhere else.
