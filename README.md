@@ -2,8 +2,7 @@
 
 If you're already experienced with downloading a Wabbajack modlist please head to the Quickstart located [here](https://github.com/zhongjiedong/Tsukiro/wiki/1--Welcome-to-hell-Quickstart)
 
-- [Installation](#installation)
-  - [Pre-Installation](#pre-installation)
+- [Pre-requisites](#pre-requisites)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
   - [Steam Config](#steam-config)
     - [Disable the Steam Overlay](#disable-the-steam-overlay)
@@ -20,9 +19,7 @@ If you're already experienced with downloading a Wabbajack modlist please head t
 - [Credits and Thanks](#credits-and-thanks)
 - [Changelog](#changelog)
 
-
-## Installation
-### Pre-Installation
+### Pre-Requisites
 
 These steps are only needed if you install this Modlist for the first time. If you are updating the Modlist, jump straight to [Updating](#updating).
 
