@@ -11,7 +11,6 @@ If you're already experienced with downloading a Wabbajack modlist please head t
     - [Set the Game language to English](#set-the-game-language-to-english)
     - [Clean Skyrim](#clean-skyrim)
     - [Start Skyrim](#start-skyrim)
-    - [Preparations](#preparations)
 - [Updating](#updating)
 - [In Game MCM Options](#in-game-mcm-options)
 - [How to start playing](#How-to-start-playing)
@@ -59,13 +58,6 @@ If this is your first time installing a Wabbajack modlist please use the [Shredd
 ## Start Skyrim
 
 After you have done everything above and got a clean SSE installation ready, Launch Skyrim once through Steam and get to the main menu and quit. This sets up all the back end stuff that Wabbajack needs to read.
-
-## Preparations
-
-Download the release to a newly created folder (Name it Wabbajack for example). This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:\Wabbajack`.
-
-Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in the new folder.
-Wabbajack will not work with Windows 7, I will not offer any kind of support for users of that operating system.
 
 ## Graphical Settings
 
