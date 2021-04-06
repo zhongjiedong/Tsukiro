@@ -72,8 +72,11 @@ Wabbajack will not work with Windows 7, I will not offer any kind of support for
 My PC specs:
 
 Ryzen 7 5800x
+
 Radeon RX 6800XT
+
 32GB RAM
+
 NVME SSD
 
 I play at 1440p and it's mostly locked at 61 FPS in most areas apart from a few places like certain parts of Falkreath and JK's interiors like Dragonsreach and Blue Palace
