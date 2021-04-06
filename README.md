@@ -51,7 +51,7 @@ This entire Modlist is in English and I cannot offer support or troubleshooting 
 #### Clean Skyrim
 If this is your first time installing a Wabbajack modlist please use the [Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133). This will provide you with a known state of the game which means troubleshooting issues is much easier.
 
-## Start Skyrim
+### Start Skyrim
 
 After you have done everything above and got a clean SSE installation ready, Launch Skyrim once through Steam and get to the main menu and quit. This sets up all the back end stuff that Wabbajack needs to read.
 
@@ -116,3 +116,7 @@ I thank you for that thought but you should probably donate to Wabbajack first. 
 ## Changelog
 
 See [Changelog](https://github.com/zhongjiedong/Tsukiro/releases).
+
+# Now what?
+
+[Click here to go to the full guide on getting yourself setup](https://github.com/zhongjiedong/Tsukiro/wiki/1---Full-guide)
