@@ -96,7 +96,7 @@ This means that any additional mods you have installed on top of the Modlist wil
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
 ## In-Game MCM Options
-MCM options have been tweaked specifically for this list, do not modify anything unless you know what you're doing.
+MCM options have been tweaked specifically for this list, do not modify anything unless otherwise specified.
 
 ## FAQ
 
