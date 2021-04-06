@@ -127,4 +127,4 @@ I thank you for that thought but you should probably donate to Wabbajack first. 
 
 ## Changelog
 
-See [Changelog](https://github.com/SovnSkyrim/QWEST/blob/main/Changelog.md).
+See [Changelog](https://github.com/zhongjiedong/Tsukiro/releases).
