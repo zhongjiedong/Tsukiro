@@ -87,7 +87,7 @@ Initial loading times will be exceptionally long if you do not have this modlist
 
 ## Updating
 
-If this Modlist receives an update please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
+Major update means the first number changes (for example beta 1.2 to beta 2.0), these will not be save friendly. Minor update means the second number changes, these will be save friendly. If this Modlist receives an update please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 
