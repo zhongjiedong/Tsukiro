@@ -13,17 +13,14 @@ If you're already experienced with downloading a Wabbajack modlist please head t
     - [Start Skyrim](#start-skyrim)
   - [Using Wabbajack](#using-wabbajack)
     - [Preparations](#preparations)
-    - [Downloading and Installing](#downloading-and-installing)
-      - [Problems with Wabbajack](#problems-with-wabbajack)
 - [Updating](#updating)
 - [In Game MCM Options](#in-game-mcm-options)
 - [How to start playing](#How-to-start-playing)
 - [FAQ](#faq)
   - [Ultrawide Options](#ultrawide-options)
+  - [Game Difficulty](#game-difficulty)
 - [Removing the Modlist](#removing-the-modlist)
 - [Credits and Thanks](#credits-and-thanks)
-- [Contact](#contact)
-- [Contributing](#contributing)
 - [Changelog](#changelog)
 
 
@@ -101,15 +98,17 @@ Updating is like installing. You only have to make sure that you select the same
 ## In-Game MCM Options
 MCM options have been tweaked specifically for this list, do not modify anything unless you know what you're doing.
 
-#### Game Difficulty
 
-This modlist isn't easy, it's following the Soulsborne style of gaming philosophy. If you don't like it then don't play it. If you really still want to play it you can adjust MCM settings for Sekiro at your own discretion.
 
 ## FAQ
 
 ## Ultrawide Options
 
 Read [Here](https://docs.google.com/document/d/1D3Yapmu_IkTWSszJ4h9wpNxgNLCi46f7XiJknpdMb6E/edit?usp=sharing)
+
+#### Game Difficulty
+
+This modlist isn't easy, it's following the Soulsborne style of gaming philosophy. If you don't like it then don't play it. If you really still want to play it you can adjust MCM settings for Sekiro at your own discretion.
 
 ## Removing the Modlist
 
