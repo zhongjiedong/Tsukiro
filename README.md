@@ -1,6 +1,6 @@
 # Tsukiro - Boobies Bounce Thrice
 
-If you're already experienced with downloading a Wabbajack modlist please head to the Quickstart located [here](https://github.com/zhongjiedong/Tsukiro/wiki/1--Welcome-to-hell-Quickstart)
+If you're already experienced with downloading a Wabbajack modlist please head to the Quickstart located [here](https://github.com/zhongjiedong/Tsukiro/wiki/3---Quickstart)
 
 - [Pre-requisites](#pre-requisites)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
