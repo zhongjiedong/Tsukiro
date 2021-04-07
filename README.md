@@ -12,6 +12,7 @@ If you're already experienced with downloading a Wabbajack modlist please head t
   - [Start Skyrim](#start-skyrim)
 - [FAQ](#faq)
   - [Updating](#updating)
+  - [Starting a new Character](#starting-a-new-character)
   - [In Game MCM Options](#in-game-mcm-options)
   - [Ultrawide Options](#ultrawide-options)
   - [Game Difficulty](#game-difficulty)
@@ -92,9 +93,11 @@ MCM options have been tweaked specifically for this list, do not modify anything
 
 Read [Here](https://docs.google.com/document/d/1D3Yapmu_IkTWSszJ4h9wpNxgNLCi46f7XiJknpdMb6E/edit?usp=sharing)
 
-#### Game Difficulty
+### Game Difficulty
 
 This modlist isn't easy, it's following the Soulsborne style of gaming philosophy. If you don't like it then don't play it. If you really still want to play it you can adjust MCM settings for Sekiro at your own discretion.
+
+### Starting a new Character
 
 ### Removing the Modlist
 
