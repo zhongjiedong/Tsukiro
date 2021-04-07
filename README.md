@@ -99,6 +99,8 @@ This modlist isn't easy, it's following the Soulsborne style of gaming philosoph
 
 ### Starting a new Character
 
+On the main menu, click on load and then "show all saves". Find the save named START and load that.
+
 ### Removing the Modlist
 
 You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
