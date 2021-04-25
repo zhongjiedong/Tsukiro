@@ -97,7 +97,7 @@ Read [Here](https://docs.google.com/document/d/1D3Yapmu_IkTWSszJ4h9wpNxgNLCi46f7
 
 This modlist isn't easy, it's following the Soulsborne style of gaming philosophy. If you don't like it then don't play it. If you really still want to play it you can adjust MCM settings for Sekiro at your own discretion.
 
-### Starting a new Character
+### Starting an alternate Character
 
 On the main menu, click on load and then "show all saves". Find the save named START and load that.
 
