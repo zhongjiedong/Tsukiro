@@ -124,4 +124,4 @@ See [Changelog](https://github.com/zhongjiedong/Tsukiro/releases).
 
 # Now what?
 
-## [Click here to go to the full guide on getting yourself setup](https://github.com/zhongjiedong/Tsukiro/wiki/1---Full-guide)
+[![Foo](https://i.imgur.com/042G5it.png)](https://github.com/zhongjiedong/Tsukiro/wiki/1---Full-guide)
