@@ -12,7 +12,7 @@ If you're already experienced with downloading a Wabbajack modlist please head t
   - [Start Skyrim](#start-skyrim)
 - [FAQ](#faq)
   - [Updating](#updating)
-  - [Starting a new Character](#starting-a-new-character)
+  - [Starting an alternate Character](#starting-an-alternate-character)
   - [In Game MCM Options](#in-game-mcm-options)
   - [Ultrawide Options](#ultrawide-options)
   - [Game Difficulty](#game-difficulty)
