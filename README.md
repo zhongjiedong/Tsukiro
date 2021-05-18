@@ -32,7 +32,7 @@ I doubt you need to do this since you likely already have this installed. This p
 
 ### Disable the Steam Overlay
 
-Right click on Skyrim SE and click on properties, untick "Enable Steam Overlay whle in-game
+Right click on Skyrim SE and click on properties, untick "Enable Steam Overlay while in-game"
 
 #### Steam Library
 
@@ -43,7 +43,7 @@ I will not provide support to people with Skyrim in their Program Files folder.
 
 SSE is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
 
-To ensure that Steam does not automatically updates the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
+To ensure that Steam does not automatically updates the game for you, head over to the properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
 
 #### Set the Game language to English
 
@@ -68,7 +68,7 @@ Radeon RX 6800XT
 
 NVME SSD
 
-I play at 1440p and it's mostly locked at 61 FPS in most areas apart from a few places like certain parts of Falkreath and JK's interiors like Dragonsreach and Blue Palace
+I play at 1440p and it's mostly locked at 61 FPS in most areas apart from a few places like certain parts of Falkreath and JK's interiors like Dragonsreach and Blue Palace.
 
 At 1080p you can get away with far lower specs, for reference you'd likely only realistically need a GTX 1070 with a CPU at least as modern as an i5 6600k/Ryzen 1600
 
@@ -76,13 +76,15 @@ Initial loading times will be exceptionally long if you do not have this modlist
 
 ## Updating
 
-Major update means the first number changes (for example beta 1.2 to beta 2.0), these will not be save friendly. Minor update means the second number changes, these will be save friendly. If this Modlist receives an update please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
+Major update means the first number changes (for example beta 27 to beta 30), these will not be save friendly. Minor update means the second number changes, these will be save friendly. If this Modlist receives an update please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 
 This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
+
+If you would like to add mods to the list and keep them rename the mod in MO2 with [NoDelete] in front of the name and do NOT tick overwrite when updating the list.
 
 ## In-Game MCM Options
 MCM options have been tweaked specifically for this list, do not modify anything unless otherwise specified.
@@ -95,11 +97,11 @@ Read [Here](https://docs.google.com/document/d/1D3Yapmu_IkTWSszJ4h9wpNxgNLCi46f7
 
 ### Game Difficulty
 
-This modlist isn't easy, it's following the Soulsborne style of gaming philosophy. If you don't like it then don't play it. If you really still want to play it you can adjust MCM settings for Sekiro at your own discretion.
+This modlist isn't easy, it's following the Soulsborne style of gaming philosophy. If you don't like it then don't play it. If you really still want to play it you can adjust MCM settings for Inpa - Sekiro Combat at your own discretion.
 
 ### Starting an alternate Character
 
-On the main menu, click on load and then "show all saves". Find the save named START and load that.
+On the main menu, click on load and then "show all characters". Find the save named START and load that.
 
 ### Removing the Modlist
 
