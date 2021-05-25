@@ -119,6 +119,7 @@ I thank you for that thought but you should probably donate to Wabbajack first. 
 
 - Halgari and everyone in the WJ Team - goes without saying
 - All the creators and devs in the WJ discord, I've leeched so much information from you all.
+- No Copyright Music for the main menu music: https://www.youtube.com/watch?v=H31PRzqlj8s
 
 ## Changelog
 
