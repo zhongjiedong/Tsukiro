@@ -15,6 +15,7 @@ If you're already experienced with downloading a Wabbajack modlist please head t
   - [Starting an alternate Character](#starting-an-alternate-character)
   - [In Game MCM Options](#in-game-mcm-options)
   - [Ultrawide Options](#ultrawide-options)
+  - [Controller Support](#controller-support)
   - [Game Difficulty](#game-difficulty)
   - [Removing the Modlist](#removing-the-modlist)
 - [Credits and Thanks](#credits-and-thanks)
@@ -94,6 +95,10 @@ MCM options have been tweaked specifically for this list, do not modify anything
 ### Ultrawide Options
 
 Read [Here](https://docs.google.com/document/d/1D3Yapmu_IkTWSszJ4h9wpNxgNLCi46f7XiJknpdMb6E/edit?usp=sharing)
+
+### Controller support
+
+See [Here](https://github.com/zhongjiedong/Tsukiro/wiki/Controller-support)
 
 ### Game Difficulty
 
