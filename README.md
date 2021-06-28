@@ -10,10 +10,12 @@ If you're already experienced with downloading a Wabbajack modlist please head t
     - [Set the Game language to English](#set-the-game-language-to-english)
   - [Clean Skyrim](#clean-skyrim)
   - [Start Skyrim](#start-skyrim)
-- [FAQ](#faq)
   - [Updating](#updating)
-  - [Starting an alternate Character](#starting-an-alternate-character)
   - [In Game MCM Options](#in-game-mcm-options)
+- [FAQ](#faq)
+  - [How do I start the main story quest?](#How do I start the main story quest?)
+  - [Help! I can't jump anymore.](#Help! I can't jump anymore.)
+  - [Starting an alternate Character](#starting-an-alternate-character)
   - [Ultrawide Options](#ultrawide-options)
   - [Controller Support](#controller-support)
   - [Game Difficulty](#game-difficulty)
@@ -91,6 +93,20 @@ If you would like to add mods to the list and keep them rename the mod in MO2 wi
 MCM options have been tweaked specifically for this list, do not modify anything unless otherwise specified.
 
 ## FAQ
+
+### How do I start the main story quest? 
+
+Don't worry about it, just go do other stuff. You'll get to it eventually
+
+### Help! I can't jump anymore.
+
+For some reason there's a rare bug where you stop being able to jump. So far disabling and enabling Engarde in the MCM seems to have a 100% success rate in fixing this:
+![image](https://i.imgur.com/FjWPz9H.png)
+
+Turn off Souls like stamina and also the toggleable power after re-enabling Engarde:
+
+![image](https://i.imgur.com/keKcPDk.png)
+![image](https://i.imgur.com/4H6HnEN.png)
 
 ### Ultrawide Options
 
