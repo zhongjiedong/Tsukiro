@@ -14,7 +14,7 @@ If you're already experienced with downloading a Wabbajack modlist please head t
   - [In Game MCM Options](#in-game-mcm-options)
 - [FAQ](#faq)
   - [How do I start the main story quest?](#how-do-i-start-the-main-story-quest)
-  - [Help! I can't jump anymore.](#help!-i-can't-jump-anymore)
+  - [Help! I can't jump anymore.](#help-i-cant-jump-anymore)
   - [Starting an alternate Character](#starting-an-alternate-character)
   - [Ultrawide Options](#ultrawide-options)
   - [Controller Support](#controller-support)
