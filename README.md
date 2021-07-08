@@ -15,6 +15,7 @@ If you're already experienced with downloading a Wabbajack modlist please head t
 - [FAQ](#faq)
   - [How do I start the main story quest?](#how-do-i-start-the-main-story-quest)
   - [Help! I can't jump anymore.](#help-i-cant-jump-anymore)
+  - [Why do I have marks on my skin?](#why-do-i-have-marks-on-my-skin)
   - [Starting an alternate Character](#starting-an-alternate-character)
   - [Ultrawide Options](#ultrawide-options)
   - [Controller Support](#controller-support)
@@ -107,6 +108,12 @@ Turn off Souls like stamina and also the toggleable power after re-enabling Enga
 
 ![image](https://i.imgur.com/keKcPDk.png)
 ![image](https://i.imgur.com/4H6HnEN.png)
+
+### Why do I have marks on my skin?
+
+![image](https://i.imgur.com/TlH9LVn.jpg)
+
+Go into your lesser powers and use the "wash and rinse" power.
 
 ### Ultrawide Options
 
