@@ -12,6 +12,7 @@ If you're already experienced with downloading a Wabbajack modlist please head t
   - [Start Skyrim](#start-skyrim)
   - [Updating](#updating)
   - [In Game MCM Options](#in-game-mcm-options)
+  - [Commonly failing downloads](commonly-failing-downloads)
 - [FAQ](#faq)
   - [How do I start the main story quest?](#how-do-i-start-the-main-story-quest)
   - [Help! I can't jump anymore.](#help-i-cant-jump-anymore)
@@ -92,6 +93,12 @@ If you would like to add mods to the list and keep them rename the mod in MO2 wi
 
 ## In-Game MCM Options
 MCM options have been tweaked specifically for this list, do not modify anything unless otherwise specified.
+
+## Commonly failing downloads
+
+Please refer to this page for links: https://github.com/zhongjiedong/Tsukiro/wiki/Commonly-failing-downloads
+
+Download the files manually and place them unmodified into the folder with the rest of your downloads
 
 ## FAQ
 
