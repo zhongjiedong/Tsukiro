@@ -12,7 +12,7 @@ If you're already experienced with downloading a Wabbajack modlist please head t
   - [Start Skyrim](#start-skyrim)
   - [Updating](#updating)
   - [In Game MCM Options](#in-game-mcm-options)
-  - [Commonly failing downloads](commonly-failing-downloads)
+  - [Commonly failing downloads](#commonly-failing-downloads)
 - [FAQ](#faq)
   - [How do I start the main story quest?](#how-do-i-start-the-main-story-quest)
   - [Help! I can't jump anymore.](#help-i-cant-jump-anymore)
