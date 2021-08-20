@@ -14,6 +14,7 @@ If you're already experienced with downloading a Wabbajack modlist please head t
   - [In Game MCM Options](#in-game-mcm-options)
   - [Commonly failing downloads](#commonly-failing-downloads)
 - [FAQ](#faq)
+  - [Why can't I fast travel?](#why-cant-i-fast-travel)
   - [How do I start the main story quest?](#how-do-i-start-the-main-story-quest)
   - [Help! I can't jump anymore.](#help-i-cant-jump-anymore)
   - [Why do I have marks on my skin?](#why-do-i-have-marks-on-my-skin)
@@ -101,6 +102,10 @@ Please refer to this page for links: https://github.com/zhongjiedong/Tsukiro/wik
 Download the files manually and place them unmodified into the folder with the rest of your downloads
 
 ## FAQ
+
+### Why can't I fast travel?
+
+Fast travel is limited in this modlist, you can only travel from signposts on the road or craft a consumable item at a cooking pot.
 
 ### How do I start the main story quest? 
 
