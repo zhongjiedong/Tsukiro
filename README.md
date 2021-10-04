@@ -101,6 +101,10 @@ Please refer to this page for links: https://github.com/zhongjiedong/Tsukiro/wik
 
 Download the files manually and place them unmodified into the folder with the rest of your downloads
 
+# Next steps for installation
+
+[![Foo](https://i.imgur.com/042G5it.png)](https://github.com/zhongjiedong/Tsukiro/wiki/1---Full-guide)
+
 ## FAQ
 
 ### Why can't I fast travel?
@@ -164,7 +168,3 @@ I thank you for that thought but you should probably donate to Wabbajack first. 
 ## Changelog
 
 See [Changelog](https://github.com/zhongjiedong/Tsukiro/releases).
-
-# Now what?
-
-[![Foo](https://i.imgur.com/042G5it.png)](https://github.com/zhongjiedong/Tsukiro/wiki/1---Full-guide)
