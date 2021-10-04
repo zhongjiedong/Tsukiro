@@ -11,8 +11,6 @@ If you're already experienced with downloading a Wabbajack modlist please head t
   - [Clean Skyrim](#clean-skyrim)
   - [Start Skyrim](#start-skyrim)
   - [Updating](#updating)
-  - [In Game MCM Options](#in-game-mcm-options)
-  - [Commonly failing downloads](#commonly-failing-downloads)
 - [FAQ](#faq)
   - [Why can't I fast travel?](#why-cant-i-fast-travel)
   - [How do I start the main story quest?](#how-do-i-start-the-main-story-quest)
@@ -91,15 +89,6 @@ This means that any additional mods you have installed on top of the Modlist wil
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
 If you would like to add mods to the list and keep them rename the mod in MO2 with [NoDelete] in front of the name and do NOT tick overwrite when updating the list.
-
-## In-Game MCM Options
-MCM options have been tweaked specifically for this list, do not modify anything unless otherwise specified.
-
-## Commonly failing downloads
-
-Please refer to this page for links: https://github.com/zhongjiedong/Tsukiro/wiki/Commonly-failing-downloads
-
-Download the files manually and place them unmodified into the folder with the rest of your downloads
 
 # Next steps for installation
 
