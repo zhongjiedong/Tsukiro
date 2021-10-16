@@ -14,3 +14,10 @@ body:
       value: "A bug happened!"
     validations:
       required: true
+ type: textarea
+    id: version
+    attributes:
+      label: Version
+      description: What version of the modlist are you on?
+      validations:
+      required: true
