@@ -19,5 +19,5 @@ body:
     attributes:
       label: Version
       description: What version of the modlist are you on?
-      validations:
+    validations:
       required: true
