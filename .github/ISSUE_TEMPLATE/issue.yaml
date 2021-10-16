@@ -14,7 +14,7 @@ body:
       value: "A bug happened!"
     validations:
       required: true
- type: textarea
+ - type: textarea
     attributes:
       label: Version
       description: What version of the modlist are you on?
