@@ -4,6 +4,7 @@ If you're already experienced with downloading a Wabbajack modlist please head t
 
 - [Pre-requisites](#pre-requisites)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
+    - [Installing .NET Runtime 5](#installing-net-runtime-5)
   - [Steam Config](#steam-config)
     - [Disable the Steam Overlay](#disable-the-steam-overlay)
     - [Change Steams Update Behavior](#change-steams-update-behavior)
