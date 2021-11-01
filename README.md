@@ -88,6 +88,8 @@ Updating is like installing. You only have to make sure that you select the same
 
 If you would like to add mods to the list and keep them rename the mod in MO2 with [NoDelete] in front of the name and do NOT tick overwrite when updating the list.
 
+If your game crashes when loading a save after an update, please refer to the following article: https://github.com/zhongjiedong/Tsukiro/wiki/Crash-on-load---SchlongsOfSkyrim.dll
+
 # Next steps for installation
 
 [![Foo](https://i.imgur.com/042G5it.png)](https://github.com/zhongjiedong/Tsukiro/wiki/1---Full-guide)
