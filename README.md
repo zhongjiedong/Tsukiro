@@ -9,7 +9,6 @@ If you're already experienced with downloading a Wabbajack modlist please head t
     - [Disable the Steam Overlay](#disable-the-steam-overlay)
     - [Change Steams Update Behavior](#change-steams-update-behavior)
     - [Set the Game language to English](#set-the-game-language-to-english)
-  - [Set DPI Scaling](#set-dpi-scaling)
   - [Start Skyrim](#start-skyrim)
   - [Updating](#updating)
 - [Credits and Thanks](#credits-and-thanks)
@@ -50,11 +49,6 @@ To ensure that Steam does not automatically updates the game for you, head over 
 #### Set the Game language to English
 
 This entire Modlist is in English and I cannot offer support or troubleshooting to people who are not playing with the game set to English.
-
-#### Set DPI Scaling
-In the Tsukiro\Tsukiro Stock Game folder, please right click on SkyrimSE.exe and then click on properties. On the Compatability tab, click on Change high DPI settings and make sure it looks like the following:
-
-[![Foo](https://cdn.discordapp.com/attachments/694254949944655953/847772081030299648/skyrim-scaling.png)
 
 ### Start Skyrim
 
