@@ -1,5 +1,11 @@
 # Tsukiro - Boobies Bounce Thrice
 
+## VERY VERY IMPORTANT.
+
+Skyrim has updated again to the "Anniversay Edition". This modlist will not update to this version, probably ever. So to install this modlist you MUST, run the patcher here:
+
+https://www.nexusmods.com/skyrimspecialedition/mods/57618
+
 If you're already experienced with downloading a Wabbajack modlist please head to the Quickstart located [here](https://github.com/zhongjiedong/Tsukiro/wiki/3---Quickstart)
 
 - [Pre-requisites](#pre-requisites)
