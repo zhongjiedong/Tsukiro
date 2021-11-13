@@ -6,7 +6,7 @@ Skyrim has updated again to the "Anniversary Edition". This modlist will not upd
 
 https://www.nexusmods.com/skyrimspecialedition/mods/57618
 
-If you're already experienced with downloading a Wabbajack modlist please head to the Quickstart located [here](https://github.com/zhongjiedong/Tsukiro/wiki/3---Quickstart)
+## THIS IS NOT OPTIONAL, YOU MUST READ THIS THOROUGHLY AND DO THE STEPS OR THE MODLIST WILL NOT FUNCTION
 
 - [Pre-requisites](#pre-requisites)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
