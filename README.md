@@ -2,7 +2,7 @@
 
 ## VERY VERY IMPORTANT.
 
-Skyrim has updated again to the "Anniversary Edition". This modlist will not update to this version, probably ever. So to install this modlist you MUST, run the patcher here:
+Skyrim has updated again to the "Anniversary Edition". This modlist will not update to this version, probably ever. So to install this modlist you MUST, run the full patcher here:
 
 https://www.nexusmods.com/skyrimspecialedition/mods/57618
 
