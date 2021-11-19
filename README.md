@@ -4,7 +4,7 @@
 
 Skyrim has updated again to the "Anniversary Edition". This modlist will not update to this version, probably ever. So to install this modlist you MUST, run the full patcher here:
 
-https://www.nexusmods.com/skyrimspecialedition/mods/57618
+https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=241865&game_id=1704
 
 ## THIS IS NOT OPTIONAL, YOU MUST READ THIS THOROUGHLY AND DO THE STEPS OR THE MODLIST WILL NOT FUNCTION
 
@@ -16,6 +16,7 @@ https://www.nexusmods.com/skyrimspecialedition/mods/57618
     - [Change Steams Update Behavior](#change-steams-update-behavior)
     - [Set the Game language to English](#set-the-game-language-to-english)
   - [Start Skyrim](#start-skyrim)
+  - [Downgrade Skyrim](#downgrade-skyrim)
   - [Updating](#updating)
 - [Credits and Thanks](#credits-and-thanks)
 - [Changelog](#changelog)
@@ -60,6 +61,12 @@ This entire Modlist is in English and I cannot offer support or troubleshooting 
 ### Start Skyrim
 
 After you have done everything above, Launch Skyrim once through Steam and get to the main menu and quit. This sets up all the back end stuff that Wabbajack needs to read.
+
+### Downgrade Skyrim
+
+https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=241865&game_id=1704 - Download this
+
+Run the executable.
 
 # Next steps for installation
 
