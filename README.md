@@ -61,6 +61,10 @@ This entire Modlist is in English and I cannot offer support or troubleshooting 
 
 After you have done everything above, Launch Skyrim once through Steam and get to the main menu and quit. This sets up all the back end stuff that Wabbajack needs to read.
 
+# Next steps for installation
+
+[![Foo](https://i.imgur.com/042G5it.png)](https://github.com/zhongjiedong/Tsukiro/wiki/1---Full-guide)
+
 ## Graphical Settings
 
 My PC specs:
@@ -92,10 +96,6 @@ Updating is like installing. You only have to make sure that you select the same
 If you would like to add mods to the list and keep them rename the mod in MO2 with [NoDelete] in front of the name and do NOT tick overwrite when updating the list.
 
 If your game crashes when loading a save after an update, please refer to the following article: https://github.com/zhongjiedong/Tsukiro/wiki/Crash-on-load---SchlongsOfSkyrim.dll
-
-# Next steps for installation
-
-[![Foo](https://i.imgur.com/042G5it.png)](https://github.com/zhongjiedong/Tsukiro/wiki/1---Full-guide)
 
 ## Credits and Thanks
 
