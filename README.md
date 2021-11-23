@@ -1,11 +1,5 @@
 # Tsukiro - Boobies Bounce Thrice
 
-## VERY VERY IMPORTANT.
-
-Skyrim has updated again to the "Anniversary Edition". This modlist will not update to this version, probably ever. So to install this modlist you MUST, run the full patcher here:
-
-https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=241865&game_id=1704
-
 ## THIS IS NOT OPTIONAL, YOU MUST READ THIS THOROUGHLY AND DO THE STEPS OR THE MODLIST WILL NOT FUNCTION
 
 - [Pre-requisites](#pre-requisites)
@@ -62,11 +56,7 @@ This entire Modlist is in English and I cannot offer support or troubleshooting 
 
 After you have done everything above, Launch Skyrim once through Steam and get to the main menu and quit. This sets up all the back end stuff that Wabbajack needs to read.
 
-### Downgrade Skyrim
-
-https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=241865&game_id=1704 - Download this
-
-Run the executable.
+THIS LIST FUNCTIONS ON THE LATEST VERSION OF SKYRIM AE, YOU MUST BE FULLY UPDATED FOR THIS LIST TO INSTALL. DO NOT USE THE DOWNGRADE PATCHER.
 
 # Next steps for installation
 
