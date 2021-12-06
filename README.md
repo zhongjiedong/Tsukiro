@@ -55,7 +55,7 @@ This entire Modlist is in English and I cannot offer support or troubleshooting 
 
 After you have done everything above, Launch Skyrim once through Steam and get to the main menu and quit. This sets up all the back end stuff that Wabbajack needs to read.
 
-THIS LIST FUNCTIONS ON THE LATEST VERSION OF SKYRIM AE, YOU MUST BE FULLY UPDATED FOR THIS LIST TO INSTALL. DO NOT USE THE DOWNGRADE PATCHER.
+THIS LIST REQUIRES THE LATEST VERSION OF SKYRIM AE TO *INSTALL*, YOU MUST BE FULLY UPDATED FOR THIS LIST TO INSTALL. DO NOT USE THE DOWNGRADE PATCHER.
 
 # Next steps for installation
 
