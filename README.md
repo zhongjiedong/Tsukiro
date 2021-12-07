@@ -73,9 +73,17 @@ Radeon RX 6800XT
 
 NVME SSD
 
-I play at 1440p and it's mostly locked at 61 FPS in most areas apart from a few places like certain parts of Falkreath and JK's interiors like Dragonsreach and Blue Palace.
+Minimum Recommended specs for 1080p:
 
-At 1080p you can get away with far lower specs, for reference you'd likely only realistically need a GTX 1070 with a CPU at least as modern as an i5 6600k/Ryzen 1600
+i5 8400/Ryzen 2600
+
+GTX 1060 6GG/RX580 GB
+
+16GB RAM
+
+SSD
+
+I play at 1440p and it's mostly locked at 61 FPS in most areas apart from a few places like certain parts of Falkreath and JK's interiors like Dragonsreach and Blue Palace.
 
 Initial loading times will be exceptionally long if you do not have this modlist installed on a SSD.
 
