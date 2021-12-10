@@ -76,7 +76,7 @@ Minimum Recommended specs for 1080p:
 
 i5 8400/Ryzen 2600
 
-GTX 1060 6GG/RX580 GB
+GTX 1060 6GB/RX580 GB
 
 16GB RAM
 
