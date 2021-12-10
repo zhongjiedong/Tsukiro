@@ -10,7 +10,6 @@
     - [Change Steams Update Behavior](#change-steams-update-behavior)
     - [Set the Game language to English](#set-the-game-language-to-english)
   - [Start Skyrim](#start-skyrim)
-  - [Updating](#updating)
 - [Credits and Thanks](#credits-and-thanks)
 - [Changelog](#changelog)
 
