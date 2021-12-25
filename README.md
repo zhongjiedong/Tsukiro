@@ -38,7 +38,7 @@ Download and install both files.
 4. Disable 'Automatically manage paging file size for all drives'
 5. Set a custom size for the drive Skyrim is installed on with a mininum of at least 20480MB
 
-AGAIN THIS IS NOT OPTIONAL, JSUT BECAUSE YOU HAVE 6MILLION GB OF RAM DOES NOT MEAN YOU CAN SKIP THIS STEP, JUST DO IT.
+AGAIN THIS IS NOT OPTIONAL, JUST BECAUSE YOU HAVE 6MILLION GB OF RAM DOES NOT MEAN YOU CAN SKIP THIS STEP, JUST DO IT.
 
 ## Steam Config
 
