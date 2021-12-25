@@ -5,6 +5,7 @@
 - [Pre-requisites](#pre-requisites)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
     - [Installing .NET Runtime 5](#installing-net-runtime-5)
+    - [Pagefile configuration](#pagefile-configuration)
   - [Steam Config](#steam-config)
     - [Disable the Steam Overlay](#disable-the-steam-overlay)
     - [Change Steams Update Behavior](#change-steams-update-behavior)
@@ -28,6 +29,14 @@ https://download.visualstudio.microsoft.com/download/pr/28b0479a-2ca7-4441-97f2-
 https://download.visualstudio.microsoft.com/download/pr/1daf85dc-291b-4bb8-812e-a0df5cdb6701/85455a4a851347de26e2901e043b81e1/windowsdesktop-runtime-5.0.12-win-x64.exe
 
 Download and install both files.
+
+#### Pagefile configuration
+
+1. Press Windows + R on your keyboard and enter sysdm.cpl ,3
+2. Under the Performance section, press 'Settings'
+3. Go to the Advanced tab at the top, and at the Virtual memory section press 'Change...'
+4. Disable 'Automatically manage paging file size for all drives'
+5. Set a custom size for the drive Skyrim is installed on with a mininum of at least 20480MB
 
 ## Steam Config
 
