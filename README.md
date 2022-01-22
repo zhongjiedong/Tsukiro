@@ -67,7 +67,7 @@ After you have done everything above, Launch Skyrim once through Steam and get t
 
 THIS LIST REQUIRES THE LATEST FREE VERSION OF SKYRIM AE TO *INSTALL*, YOU MUST BE FULLY UPDATED FOR THIS LIST TO INSTALL. DO NOT USE THE DOWNGRADE PATCHER.
 
-# Next steps for installation
+# Next steps for installation - CLICK THE BOOBIES BELOW
 
 [![Foo](https://i.imgur.com/042G5it.png)](https://github.com/zhongjiedong/Tsukiro/wiki/1---Full-guide)
 
