@@ -69,7 +69,7 @@ THIS LIST REQUIRES THE LATEST FREE VERSION OF SKYRIM AE TO *INSTALL*, YOU MUST B
 
 # Next steps for installation - CLICK THE BOOBIES BELOW
 
-[![Foo](https://i.imgur.com/042G5it.png)](https://github.com/zhongjiedong/Tsukiro/wiki/1---Full-guide)
+[![Foo](https://i.imgur.com/042G5it.png)](https://github.com/zhongjiedong/Tsukiro/wiki/Full-guide)
 
 ## Graphical Settings
 
