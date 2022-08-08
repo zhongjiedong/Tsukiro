@@ -24,18 +24,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/zhongjiedong/Tsukiro/main/Gallery.webp",
       "readme": "https://raw.githubusercontent.com/zhongjiedong/Tsukiro/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Tsukiro.wabbajack_fd66bd63-5029-443f-a0e1-bbe1da35adde",
+      "download": "https://authored-files.wabbajack.org/Tsukiro.wabbajack_e91ee879-2916-436c-8acc-fac6c949ce25",
       "machineURL": "tsukiro",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-  "Hash": "LG6jhXbUCB4=",
-  "Size": 1652405280,
+  "Hash": "o9DgoVp0fTU=",
+  "Size": 1652402812,
   "NumberOfArchives": 1242,
   "SizeOfArchives": 141608451657,
-  "NumberOfInstalledFiles": 156515,
-  "SizeOfInstalledFiles": 208458018707
+  "NumberOfInstalledFiles": 156516,
+  "SizeOfInstalledFiles": 208458019370
     },
     "version": "1.0",
     "RepositoryName": ""
