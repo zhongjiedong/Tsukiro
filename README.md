@@ -65,7 +65,7 @@ This entire Modlist is in English and I cannot offer support or troubleshooting 
 
 After you have done everything above, Launch Skyrim once through Steam and get to the main menu and quit. This sets up all the back end stuff that Wabbajack needs to read.
 
-THIS LIST REQUIRES THE LATEST FREE VERSION OF SKYRIM AE TO *INSTALL*, YOU MUST BE FULLY UPDATED FOR THIS LIST TO INSTALL. DO NOT USE THE DOWNGRADE PATCHER.
+THIS LIST REQUIRES AN UP TO DATE SKYRIM SE *INSTALL*, MAKE SURE IN STEAM IT'S NOT PENDING AN UPDATE. DO NOT USE THE DOWNGRADE PATCHER.
 
 # Next steps for installation - CLICK THE BOOBIES BELOW
 
@@ -85,15 +85,15 @@ NVME SSD
 
 Minimum Recommended specs for 1080p:
 
-i5 8400/Ryzen 2600
+i5 8400/Ryzen 5 3600
 
-GTX 1060 6GB/RX580 GB
+GTX 2070 8GB/RX5600XT 8GB
 
 16GB RAM
 
 SSD
 
-I play at 1440p and it's mostly locked at 61 FPS in most areas apart from a few places like certain parts of Falkreath and JK's interiors like Dragonsreach and Blue Palace.
+I play at 1440p and it's mostly locked at 61 FPS in most areas apart from a few places like certain parts of Falkreath and Solitude.
 
 Initial loading times will be exceptionally long if you do not have this modlist installed on a SSD.
 
