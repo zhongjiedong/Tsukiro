@@ -87,7 +87,7 @@ NVME SSD
 
 Minimum Recommended specs for 1080p:
 
-i5 10400/Ryzen 5 3600
+i5 10100/Ryzen 5 3300
 
 GTX 2070 8GB/RX5600XT 8GB
 
