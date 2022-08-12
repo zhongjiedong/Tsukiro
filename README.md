@@ -11,6 +11,8 @@
     - [Change Steams Update Behavior](#change-steams-update-behavior)
     - [Set the Game language to English](#set-the-game-language-to-english)
   - [Start Skyrim](#start-skyrim)
+  - [System Requirements](#system-requirements)
+  - [Updating](#updating)
 - [Credits and Thanks](#credits-and-thanks)
 - [Changelog](#changelog)
 
@@ -71,7 +73,7 @@ THIS LIST REQUIRES AN UP TO DATE SKYRIM SE *INSTALL*, MAKE SURE IN STEAM IT'S NO
 
 [![Foo](https://i.imgur.com/042G5it.png)](https://github.com/zhongjiedong/Tsukiro/wiki/Full-guide)
 
-## Graphical Settings
+## System Requirements
 
 My PC specs:
 
