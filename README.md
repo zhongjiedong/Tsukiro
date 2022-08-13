@@ -88,16 +88,25 @@ NVME SSD
 Minimum Recommended specs for 1080p:
 
 i5 8600
+
 i5 9600
+
 i3 10100
+
 i3 11400
+
 Ryzen 5 3300
+
 Ryzen 5 5600
 
 GTX 1070
+
 RTX 2060
+
 RTX 3060
+
 RX 5600XT
+
 RX 6600
 
 16GB RAM
