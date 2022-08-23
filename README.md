@@ -79,7 +79,7 @@ THIS LIST REQUIRES AN UP TO DATE SKYRIM SE *INSTALL*, MAKE SURE IN STEAM IT'S NO
 
 My PC specs:
 
-Ryzen 7 5800x
+Ryzen 7 5800X3D
 
 Radeon RX 6800XT
 
@@ -89,7 +89,7 @@ NVME SSD
 
 Minimum Recommended specs for 1080p:
 
-i5 8600/i5 9600/i3 10100/i5 11400/i5 12400
+i5 8600 / i5 9600/ i3 10100 / i5 11400 / i5 12400
 
 OR
 
