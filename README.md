@@ -89,7 +89,7 @@ NVME SSD
 
 Minimum Recommended specs for 1080p:
 
-i5 8600 / i5 9600/ i3 10100 / i5 11400 / i5 12400
+i5 8400 / i5 9400/ i3 10100 / i5 11400 / i5 12400
 
 OR
 
