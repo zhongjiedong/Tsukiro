@@ -39,8 +39,10 @@ Download and install both files.
 1. Press Windows + R on your keyboard and enter sysdm.cpl ,3
 2. Under the Performance section, press 'Settings'
 3. Go to the Advanced tab at the top, and at the Virtual memory section press 'Change...'
-4. Disable 'Automatically manage paging file size for all drives'
+4. Disable 'Automatically manage paging file size for all drives
 5. Set a custom size for the drive Skyrim is installed on with a mininum of at least 20480MB
+
+![pagefile](https://user-images.githubusercontent.com/20669755/208314831-e1d6c3c9-5987-49f1-8e7b-da482e2fb6f3.jpg)
 
 AGAIN THIS IS NOT OPTIONAL, JUST BECAUSE YOU HAVE 6MILLION GB OF RAM DOES NOT MEAN YOU CAN SKIP THIS STEP, JUST DO IT.
 
