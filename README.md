@@ -1,6 +1,6 @@
 # Tsukiro - Boobies Bounce Thrice
 
-## THIS IS NOT OPTIONAL, YOU MUST READ THIS THOROUGHLY AND DO THE STEPS OR THE MODLIST WILL NOT FUNCTION
+## THIS IS NOT OPTIONAL, DO NOT ASSUME YOUR PC ALREADY HAS THESE INSTALLED. YOU MUST READ THIS THOROUGHLY AND DO THE STEPS OR THE MODLIST WILL NOT FUNCTION
 
 - [Pre-requisites](#pre-requisites)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
